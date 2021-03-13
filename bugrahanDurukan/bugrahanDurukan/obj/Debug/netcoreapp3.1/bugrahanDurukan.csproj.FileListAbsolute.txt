@@ -1,0 +1,13 @@
+D:\CS projects\bugrahanDurukanHomework1\bugrahanDurukan\bugrahanDurukan\bin\Debug\netcoreapp3.1\bugrahanDurukan.exe
+D:\CS projects\bugrahanDurukanHomework1\bugrahanDurukan\bugrahanDurukan\bin\Debug\netcoreapp3.1\bugrahanDurukan.deps.json
+D:\CS projects\bugrahanDurukanHomework1\bugrahanDurukan\bugrahanDurukan\bin\Debug\netcoreapp3.1\bugrahanDurukan.runtimeconfig.json
+D:\CS projects\bugrahanDurukanHomework1\bugrahanDurukan\bugrahanDurukan\bin\Debug\netcoreapp3.1\bugrahanDurukan.runtimeconfig.dev.json
+D:\CS projects\bugrahanDurukanHomework1\bugrahanDurukan\bugrahanDurukan\bin\Debug\netcoreapp3.1\bugrahanDurukan.dll
+D:\CS projects\bugrahanDurukanHomework1\bugrahanDurukan\bugrahanDurukan\bin\Debug\netcoreapp3.1\bugrahanDurukan.pdb
+D:\CS projects\bugrahanDurukanHomework1\bugrahanDurukan\bugrahanDurukan\obj\Debug\netcoreapp3.1\bugrahanDurukan.csprojAssemblyReference.cache
+D:\CS projects\bugrahanDurukanHomework1\bugrahanDurukan\bugrahanDurukan\obj\Debug\netcoreapp3.1\bugrahanDurukan.AssemblyInfoInputs.cache
+D:\CS projects\bugrahanDurukanHomework1\bugrahanDurukan\bugrahanDurukan\obj\Debug\netcoreapp3.1\bugrahanDurukan.AssemblyInfo.cs
+D:\CS projects\bugrahanDurukanHomework1\bugrahanDurukan\bugrahanDurukan\obj\Debug\netcoreapp3.1\bugrahanDurukan.csproj.CoreCompileInputs.cache
+D:\CS projects\bugrahanDurukanHomework1\bugrahanDurukan\bugrahanDurukan\obj\Debug\netcoreapp3.1\bugrahanDurukan.dll
+D:\CS projects\bugrahanDurukanHomework1\bugrahanDurukan\bugrahanDurukan\obj\Debug\netcoreapp3.1\bugrahanDurukan.pdb
+D:\CS projects\bugrahanDurukanHomework1\bugrahanDurukan\bugrahanDurukan\obj\Debug\netcoreapp3.1\bugrahanDurukan.genruntimeconfig.cache
